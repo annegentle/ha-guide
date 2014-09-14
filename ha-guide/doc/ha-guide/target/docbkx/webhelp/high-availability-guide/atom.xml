@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+   <title>OpenStack High Availability Guide current revision history</title>
+   <link href="http://docs.openstack.org/high-availability-guide/atom.xml" rel="self"/>
+   <link href="http://docs.openstack.org/high-availability-guide/content/index.html"/>
+   <id>bk-ha-guide</id>
+   <updated>2014-09-14T13:02:50-05:00</updated>
+   <entry>
+      <title>2014-05-16</title>
+      <link href="http://docs.openstack.org/high-availability-guide/content/index.html" type="text/html"/>
+      <id>bk-ha-guide-2014-05-16</id>
+      <updated>2014-05-16</updated>
+      <content type="xhtml">
+         <div xmlns="http://www.w3.org/1999/xhtml">
+            
+            <div class="itemizedlist">
+               <ul class="itemizedlist" compact="compact" type="disc">
+                  <li class="listitem">
+                     <p>Conversion to Docbook.</p>
+                  </li>
+               </ul>
+            </div>
+          
+         </div>
+      </content>
+   </entry>
+   <entry>
+      <title>2014-04-17</title>
+      <link href="http://docs.openstack.org/high-availability-guide/content/index.html" type="text/html"/>
+      <id>bk-ha-guide-2014-04-17</id>
+      <updated>2014-04-17</updated>
+      <content type="xhtml">
+         <div xmlns="http://www.w3.org/1999/xhtml">
+            
+            <div class="itemizedlist">
+               <ul class="itemizedlist" compact="compact" type="disc">
+                  <li class="listitem">
+                     <p>Minor cleanup of typos, otherwise no
+                                  major revisions for Icehouse release.</p>
+                  </li>
+               </ul>
+            </div>
+          
+         </div>
+      </content>
+   </entry>
+   <entry>
+      <title>2012-01-16</title>
+      <link href="http://docs.openstack.org/high-availability-guide/content/index.html" type="text/html"/>
+      <id>bk-ha-guide-2012-01-16</id>
+      <updated>2012-01-16</updated>
+      <content type="xhtml">
+         <div xmlns="http://www.w3.org/1999/xhtml">
+            
+            <div class="itemizedlist">
+               <ul class="itemizedlist" compact="compact" type="disc">
+                  <li class="listitem">
+                     <p>Organizes guide based on cloud controller and compute nodes.</p>
+                  </li>
+               </ul>
+            </div>
+          
+         </div>
+      </content>
+   </entry>
+   <entry>
+      <title>2012-05-24</title>
+      <link href="http://docs.openstack.org/high-availability-guide/content/index.html" type="text/html"/>
+      <id>bk-ha-guide-2012-05-24</id>
+      <updated>2012-05-24</updated>
+      <content type="xhtml">
+         <div xmlns="http://www.w3.org/1999/xhtml">
+            
+            <div class="itemizedlist">
+               <ul class="itemizedlist" compact="compact" type="disc">
+                  <li class="listitem">
+                     <p>Begin trunk designation.</p>
+                  </li>
+               </ul>
+            </div>
+          
+         </div>
+      </content>
+   </entry>
+</feed>
